@@ -5,5 +5,5 @@ app = FastAPI()
 
 @app.get("/touch")
 def touch():
-    return {"hello": "world"}
+    return {"hello": "world :)"}
 
